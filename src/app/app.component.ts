@@ -23,6 +23,7 @@ export class AppComponent {
   History:['',Validators.required],
   Investigations:['',Validators.required],
   Labs:['',Validators.required],
+  XRays:['',Validators.required],
   Management:['',Validators.required],
   Rom:['',Validators.required],
   Gait:['',Validators.required],
